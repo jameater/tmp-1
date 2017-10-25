@@ -1,5 +1,4 @@
-# Titolo
-Pragrafo
+# Title
+Pragraph text
 
-
-Piè di pagina
+Page footer
