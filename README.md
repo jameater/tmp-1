@@ -1,4 +1,4 @@
 # Title
-Pragraph text
+Paragraph text
 
 Page footer
